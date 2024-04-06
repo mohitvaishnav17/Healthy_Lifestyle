@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#bek p{
+     font-size: large;
+     color: rgb(46, 9, 9);
+     text-align: center;
+}
+#master{
+      background-color: rgb(159, 217, 148);
+}
+#ctn{
+    color:rgb(46, 9, 9);
+    font-size: large;
+    padding: 0 20px;
+}
+#btn button{
+    text-decoration:none;
+    color: rgb(245, 4, 52);
+    width: 80px;
+    height: 30px;
+}
+#btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
